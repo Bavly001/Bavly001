@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bavly Ashraf</h1>
-<h3 align="center">A frontend web developer from Egypt</h3>
+<h1 align="center">Hey 👋, I'm Bavly Ashraf</h1>
+<h3 align="center">A frontend web developer | React Js | Angular</h3>
 
 - 💬 Ask me about **React Js and Angular**
 
