@@ -31,7 +31,7 @@
                   alt="css3" width="40" height="40" /> </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
                   src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"
-                  alt="css3" width="40" height="40" /> </a>
+                  alt="tailwindcss" width="40" height="40" /> </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                   alt="bootstrap" width="40" height="40" /> </a>
