@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Bavly Ashraf</h1>
 <h3 align="center">A frontend web developer | React Js | Angular</h3>
 
-- 💬 Ask me about **React Js and Angular**
-
-- 📫 How to reach me **a_bavly@yahoo.cm**
+- 🔭 I’m currently working on **ExabyteLLC**
+- 💬 Ask me about **React and Angular**
+- 📫 How to reach me **a_bavly@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
