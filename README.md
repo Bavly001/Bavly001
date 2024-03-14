@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Bavly Ashraf</h1>
-<h3 align="center">A frontend web developer | React | Angular</h3>
+<h3 align="center">A Frontend Web Developer | React | Angular</h3>
 
 - 🔭 I’m currently working on **ExabyteLLC**
 - 💬 Ask me about **React and Angular**
