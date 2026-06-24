@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Bavly Ashraf</h1>
 <h3 align="center">A Frontend Web Developer | React | Angular</h3>
 
-- 🔭 I’m currently working on **ExabyteLLC**
-- 💬 Ask me about **React and Angular**
+- 🔭 I’m currently working on **GamerG (Preezy)**
+- 💬 Ask me about **React**
 - 📫 How to reach me **a_bavly@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
