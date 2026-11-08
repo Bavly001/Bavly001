@@ -244,8 +244,4 @@ Looking for a product-minded Software Engineer to build scalable frontend archit
 <a href="mailto:a_bavly@yahoo.com"><img src="https://img.shields.io/badge/Yahoo_Mail-a__bavly%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/201271931937"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Bavly001&label=Profile%20Views&color=06B6D4&style=flat-square" alt="Profile views" />
-
 </div>
