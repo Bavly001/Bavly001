@@ -1,0 +1,5 @@
+.superpowers/
+docs/superpowers/
+superpowers/
+.DS_Store
+*.log

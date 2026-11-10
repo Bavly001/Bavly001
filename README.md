@@ -117,6 +117,21 @@ I'm a **Software Engineer** specializing in designing and shipping high-performa
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🎬 Filmate — Smart Cinema Discovery &amp; Mood Assistant</h3>
+      <p><b>Intelligent cinematic assistant matching movies to your current mood</b></p>
+      <p>
+        <a href="https://filmate-assistant.vercel.app"><img src="https://img.shields.io/badge/Live_App-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
+        <a href="https://github.com/Bavly001/filmate"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+      </p>
+      <ul>
+        <li>Interactive <b>Smart Mate Assistant</b> that helps you choose the perfect movie or TV show matching your current mood, company, era, and runtime constraints.</li>
+        <li>Adaptive recommendation discovery with mood stack prioritization to eliminate choice paralysis and endless scrolling.</li>
+        <li>Universal instant modal search, keyboard navigation (<code>ESC</code> / <code>Enter</code>), and live global catalogs powered by TMDB.</li>
+        <li>Performant cinematic UI with custom scroll-locked carousels and <b>TanStack Query v5</b> direct client caching.</li>
+      </ul>
+      <p><code>Next.js 14</code> <code>TypeScript</code> <code>TanStack Query</code> <code>Zustand</code> <code>TMDB API</code> <code>Tailwind CSS</code> <code>Vercel</code></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🚀 Doit — Task &amp; Productivity Platform</h3>
       <p><b>Full-stack task management with optimistic caching</b></p>
       <p>
@@ -131,6 +146,8 @@ I'm a **Software Engineer** specializing in designing and shipping high-performa
       </ul>
       <p><code>React 18</code> <code>Express.js</code> <code>TiDB Cloud MySQL</code> <code>Redux Toolkit</code> <code>TanStack Query</code> <code>Docker</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎨 Facetcher — AI Sketch-to-Realism</h3>
       <p><b>Interactive neural canvas &amp; photorealistic face synthesis</b></p>
@@ -146,8 +163,6 @@ I'm a **Software Engineer** specializing in designing and shipping high-performa
       </ul>
       <p><code>React.js</code> <code>TypeScript</code> <code>HTML5 Canvas</code> <code>Deep Learning APIs</code> <code>Tailwind CSS</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🦷 Dexi Dental Assistant &amp; Inventory Suite</h3>
       <p><b>Clinical workflow automation &amp; medical supply monitoring</b></p>
@@ -163,6 +178,8 @@ I'm a **Software Engineer** specializing in designing and shipping high-performa
       </ul>
       <p><code>React.js</code> <code>TypeScript</code> <code>Redux Toolkit</code> <code>React Hook Form</code> <code>Zod</code> <code>Tailwind CSS</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏆 PREEZY Esports &amp; Tournament Live Hub</h3>
       <p><b>High-traffic tournament brackets &amp; WebSocket live score companion</b></p>
@@ -177,6 +194,21 @@ I'm a **Software Engineer** specializing in designing and shipping high-performa
         <li>Intelligent client-side caching and API request interceptors for high-concurrency tournament traffic.</li>
       </ul>
       <p><code>Next.js</code> <code>TypeScript</code> <code>React Native</code> <code>WebSockets</code> <code>REST APIs</code> <code>Tailwind CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Health Insurance Claims &amp; Policy Portal</h3>
+      <p><b>Enterprise healthcare claims submission &amp; policyholder management</b></p>
+      <p>
+        <a href="https://github.com/Bavly001"><img src="https://img.shields.io/badge/Enterprise_Portal-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Enterprise Portal"/></a>
+        <img src="https://img.shields.io/badge/InsurTech-10B981?style=for-the-badge" alt="InsurTech"/>
+      </p>
+      <ul>
+        <li>Developed operational React and TypeScript enterprise portals for healthcare insurance providers.</li>
+        <li>Built complex multi-step claims submission forms with dynamic client-side schema validation rules.</li>
+        <li>Implemented resilient error boundaries and responsive data tables for policyholder accounts.</li>
+        <li>Containerized environments using Docker and followed clean Agile Scrum delivery workflows.</li>
+      </ul>
+      <p><code>React.js</code> <code>TypeScript</code> <code>Material-UI</code> <code>Tailwind CSS</code> <code>REST APIs</code> <code>Docker</code></p>
     </td>
   </tr>
 </table>
